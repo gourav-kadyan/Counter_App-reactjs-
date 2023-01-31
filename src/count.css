@@ -1,0 +1,13 @@
+.ui.grid > .row {
+	align-items: center;
+	justify-content: center;
+	width: 100%;
+}
+
+.ui.grid > .row > .column {
+	text-align: center;
+}
+
+p {
+	font-size: 2rem;
+}
